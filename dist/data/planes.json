@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "F-14 Tomcat",
+        "category": "Fighter",
+        "payload": "",
+        "description": "Lorem Lipsum do re me"
+    },
+    {
+        "id": "2",
+        "name": "F-16 Falcon",
+        "category": "Fighter",
+        "payload": "",
+        "description": "Lorem Lipsum do re me"
+    },
+    {
+        "id": "3",
+        "name": "F-18 Hornet",
+        "category": "Fighter",
+        "payload": "",
+        "description": "Lorem Lipsum do re me"
+    }
+]
